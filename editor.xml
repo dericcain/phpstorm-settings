@@ -8,11 +8,13 @@
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
       <option name="FOREGROUND" value="73bf" />
+      <option name="BACKGROUND" value="4cff99" />
       <option name="FONT_TYPE" value="1" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
       <option name="FOREGROUND" value="73bf" />
+      <option name="BACKGROUND" value="4cff99" />
       <option name="FONT_TYPE" value="1" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
     </pattern>
