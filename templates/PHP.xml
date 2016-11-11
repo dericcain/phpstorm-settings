@@ -1,9 +1,0 @@
-<templateSet group="PHP">
-  <template name="php" value="&lt;?php $code$ ?&gt;" description="PHP start and close tags" toReformat="false" toShortenFQNames="true">
-    <variable name="code" expression="" defaultValue="'code'" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
