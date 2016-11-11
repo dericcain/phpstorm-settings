@@ -1,0 +1,224 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="CheckEmptyScriptTag" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="CheckImageSize" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="HtmlDeprecatedTag" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="HtmlFormInputWithoutLabel" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="HtmlNonExistentInternetResource" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="HtmlPresentationalElement" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="HtmlUnknownAnchorTarget" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="ERROR" enabled_by_default="true">
+            <option name="myValues">
+              <value>
+                <list size="0" />
+              </value>
+            </option>
+            <option name="myCustomValuesEnabled" value="true" />
+          </inspection_tool>
+          <inspection_tool class="HtmlUnknownBooleanAttribute" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="HtmlUnknownTag" enabled="true" level="ERROR" enabled_by_default="true">
+            <option name="myValues">
+              <value>
+                <list size="6">
+                  <item index="0" class="java.lang.String" itemvalue="nobr" />
+                  <item index="1" class="java.lang.String" itemvalue="noembed" />
+                  <item index="2" class="java.lang.String" itemvalue="comment" />
+                  <item index="3" class="java.lang.String" itemvalue="noscript" />
+                  <item index="4" class="java.lang.String" itemvalue="embed" />
+                  <item index="5" class="java.lang.String" itemvalue="script" />
+                </list>
+              </value>
+            </option>
+            <option name="myCustomValuesEnabled" value="true" />
+          </inspection_tool>
+          <inspection_tool class="HtmlUnknownTarget" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="MessDetectorValidationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpAbstractStaticMethodInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpAssignmentInConditionInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpCSValidationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpConstantReassignmentInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpDeprecationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpDivisionByZeroInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpDocMissingReturnTagInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpDocMissingThrowsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpDocSignatureInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpDuplicateArrayKeysInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpDuplicateCaseInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpExpressionResultUnusedInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpForeachArrayIsUsedAsValueInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpForeachNestedOuterKeyValueVariablesConflictInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpIllegalArrayKeyTypeInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpIncludeInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpInconsistentReturnPointsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpInternalEntityUsedInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpMethodOrClassCallIsNotCaseSensitiveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpMethodParametersCountMismatchInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingBreakStatementInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingDocCommentInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpMissingParentCallCommonInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpMissingParentConstructorInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpNonCompoundUseInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpParamsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpRedundantClosingTagInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpSillyAssignmentInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpToStringImplementationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpTooManyParametersInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpTraditionalSyntaxArrayLiteralInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpUndefinedCallbackInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUndefinedConstantInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUndefinedFunctionInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUndefinedGotoLabelInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUndefinedNamespaceInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUndefinedVariableInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUnreachableStatementInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUnusedAliasInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUnusedParameterInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpVariableVariableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpVoidFunctionResultUsedInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpWrongCatchClausesOrderInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpWrongForeachArgumentTypeInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpWrongStringConcatenationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="QuirksModeInspectionTool" enabled="false" level="ERROR" enabled_by_default="false">
+            <option name="IE50" value="false" />
+            <option name="IE55" value="false" />
+            <option name="IE6" value="true" />
+            <option name="IE7" value="true" />
+            <option name="IE_MAC" value="false" />
+            <option name="MOZILLA" value="true" />
+            <option name="OPERA7" value="false" />
+            <option name="OPERA8" value="false" />
+            <option name="OPERA85" value="true" />
+            <option name="OPERA9" value="true" />
+            <option name="SAFARI" value="true" />
+          </inspection_tool>
+          <inspection_tool class="RequiredAttributes" enabled="true" level="ERROR" enabled_by_default="true">
+            <option name="myAdditionalRequiredHtmlAttributes" value="" />
+          </inspection_tool>
+        </profile>
+        <option name="PROJECT_PROFILE" value="Project Default" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpUnit">
+        <phpunit_settings>
+          <PhpUnitSettings />
+        </phpunit_settings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+        <include_path>
+          <path value="/Applications/MAMP/bin/php/php5.6.7/lib/php" />
+        </include_path>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Bitwise operation issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Code SmellPHP</id>
+              </State>
+              <State>
+                <id>CoffeeScript</id>
+              </State>
+              <State>
+                <id>Control flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Cucumber</id>
+              </State>
+              <State>
+                <id>Data flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Error handlingJavaScript</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>PHPDocPHP</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugsCoffeeScript</id>
+              </State>
+              <State>
+                <id>Probable bugsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugsPHP</id>
+              </State>
+              <State>
+                <id>SQL</id>
+              </State>
+              <State>
+                <id>UndefinedPHP</id>
+              </State>
+              <State>
+                <id>XPath</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Blade files</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

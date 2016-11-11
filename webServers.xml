@@ -1,0 +1,25 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd1264b6-2aba-495f-b98d-b877702897cb" name="Teen Challenge Staging" url="http://staging.teenchallenge.cc">
+        <fileTransfer host="staging.teenchallenge.cc" port="22" rootFolder="/var/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="99de8128-1f8f-43c4-9e0f-e3bee184b1b0" name="crazy-ninja" url="http://104.236.123.14">
+        <fileTransfer host="104.236.123.14" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAA4PuKah58rfn1n6u0KffWxff+jpLEppLCaKu/HyDsFbnwwTJXoUHPZ6BDr1llmY7tu8u05YNYPwnBxUSHLjnbVzTITUVcotdk8q2/mx073zt7z5OP4eQF4eeKqLiBjKbo8YthiPXbH/wxyk1uBNyWHVKldNRyyaK8uOkjZyXOqYCj+d+62oX3OPzD+nE5bd4gE7wcoav+1zCHiDLvWGOUdlvP9HNuh1t+QcO7/1dp/HfCWxUQB7UmwKjXx3Hbc2+BpI0goecLHSOVJEPZ+oBv/+aL3sZxjGyMjHC3Bd8u9Ot41u6N7FeW5qKjEblUgunZ1w==</data>
+  </component>
+</application>

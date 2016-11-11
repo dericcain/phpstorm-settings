@@ -1,0 +1,117 @@
+<templateSet group="user">
+  <template name="textfield" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    {{ Form::label('$NAME$', '$VALUE$:') }}&#10;    {{ Form::text('$NAME$', null, ['class' =&gt; 'form-control']) }}&#10;&lt;/div&gt;&#10;" description="Bootstrap, Laravel text field" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="passfield" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    {{ Form::label('$NAME$', '$VALUE$:') }}&#10;    {{ Form::password('$NAME$', ['class' =&gt; 'form-control']) }}&#10;&lt;/div&gt;&#10;" description="Bootstrap, Laravel password field." toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="intmethod" value="public function $NAME$($params$);" description="Interface Method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="'name'" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="'params'" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="submitbtn" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    {{ Form::submit('$VALUE$', ['class' =&gt; 'form-control btn btn-primary']) }}&#10;&lt;/div&gt;&#10;" description="Bootstrap, Laravel submit button" toReformat="true" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="'value'" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="scaffold" value="&lt;div class=&quot;container&quot;&gt;&#10;    &lt;div class=&quot;row&quot;&gt;&#10;        &lt;div class=&quot;col-sm-12&quot;&gt;&#10;            $CODE$&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;" description="Bootstrap container, row and column scaffolding" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="'Code here....'" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jscript" value="&lt;script type&quot;text/javascript&quot; src=&quot;{{ URL::asset('$SOURCE$') }}&quot;&gt;&lt;/script&gt;" description="Javascript &lt;script&gt; tag" toReformat="false" toShortenFQNames="true">
+    <variable name="SOURCE" expression="" defaultValue="'source'" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if($start$)&#10;{&#10;    $end$&#10;}" description="If statement scaffolding" toReformat="false" toShortenFQNames="true">
+    <variable name="start" expression="" defaultValue="''" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="''" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bootstrap" value="&lt;link href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot;&gt;&#10;&lt;script src=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;" description="Loads boostrap dependencies." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="starthtml" value="&lt;!DOCTYPE html&gt;&#10;&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;meta charset=&quot;UTF-8&quot;&gt;&#10;    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot;&gt;&#10;    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;&#10;    &lt;title&gt;title&lt;/title&gt;&#10;&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;//fonts.googleapis.com/css?family=Lato:400,300,900,700&quot; type=&quot;text/css&quot;&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&quot;&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;css/style.css&quot; type=&quot;text/css&quot;&gt;&#10;&#10;    &lt;script src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js&quot;&gt;&lt;/script&gt;&#10;&#10;    &lt;!-- START HERE --&gt;&#10;&#10;    &lt;script type=&quot;text/javascript&quot;&gt;&#10;        var _gaq = _gaq || [];&#10;        _gaq.push(['_setAccount', 'UA-XXXXXXXX-Y']);&#10;        _gaq.push(['_trackPageview']);&#10;        (function () {&#10;            var ga = document.createElement('script');&#10;            ga.type = 'text/javascript';&#10;            ga.async = true;&#10;            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';&#10;            var s = document.getElementsByTagName('script')[0];&#10;            s.parentNode.insertBefore(ga, s);&#10;        })();&#10;    &lt;/script&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&#10;&lt;script src=&quot;https://code.jquery.com/jquery-1.12.1.min.js&quot; integrity=&quot;sha256-I1nTg78tSrZev3kjvfdM5A5Ak/blglGzlaZANLPDl3I=&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;&#10;&lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;&#10;&lt;script src=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;&#10;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" description="HTML Boilerplate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="startsection" value="&lt;section id=&quot;$id$&quot; class=&quot;$class$&quot;&gt;&#10;    &lt;div class=&quot;container&quot;&gt;&#10;        &lt;div class=&quot;row&quot;&gt;&#10;            &lt;div class=&quot;col-sm-12&quot;&gt;&#10;                $start$&#10;            &lt;/div&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&lt;/section&gt;" description="Scaffolding for a section." toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="start" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="todo-me: $start$" description="Todo for me" toReformat="false" toShortenFQNames="true">
+    <variable name="start" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="em" value="$em = $this-&gt;getDoctrine()-&gt;getManager();" description="Declares Doctrine Entity Manager variable" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="phpunit" value="&lt;phpunit&#10;    bootstrap=&quot;vendor/autoload.php&quot;&#10;    colors=&quot;true&quot;&#10;    convertErrorsToExceptions=&quot;true&quot;&#10;    convertNoticesToExceptions=&quot;true&quot;&#10;    convertWarningsToExceptions=&quot;true&quot;&#10;    processIsolation=&quot;false&quot;&#10;    stopOnFailure=&quot;false&quot;&#10;    syntaxCheck=&quot;false&quot;&#10;&gt;&#10;    &lt;testsuites&gt;&#10;        &lt;testsuite name=&quot;App Tests&quot;&gt;&#10;            &lt;directory&gt;test&lt;/directory&gt;&#10;        &lt;/testsuite&gt;&#10;    &lt;/testsuites&gt;&#10;    &lt;php&gt;&#10;        &lt;ini name=&quot;display_errors&quot; value=&quot;true&quot;/&gt;&#10;    &lt;/php&gt;&#10;&lt;/phpunit&gt;" description="PHP Unit XML Boilerplate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="vue" value="&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.18/vue.js&quot;&gt;&lt;/script&gt;" description="Vue script tags" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="jquery" value="&lt;script src=&quot;https://code.jquery.com/jquery-1.12.2.min.js&quot; integrity=&quot;sha256-lZFHibXzMHo3GGeehn1hudTAP3Sc0uKXBXAzHX1sjtk=&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;" description="jquery script tags" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="@test" value="/** @test */&#10;function $START$()&#10;{&#10;    $CODE$&#10;}" description="Testing boilerplate for PHPUnit" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="tfield" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$NAME$&quot;&gt;$CAP_NAME$&lt;/label&gt;&#10;    &lt;input name=&quot;$NAME$&quot; id=&quot;$NAME$&quot; type=&quot;text&quot; class=&quot;form-control&quot;&gt;&#10;&lt;/div&gt;&#10;$END$" description="Bootstrap text field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CAP_NAME" expression="capitalize(spaceSeparated(NAME))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
