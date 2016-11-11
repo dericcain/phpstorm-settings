@@ -9,7 +9,6 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="EditorChooseLookupItem" />
-  <action id="EditorEnter" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
