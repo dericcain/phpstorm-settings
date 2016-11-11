@@ -2,14 +2,15 @@
   <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Meslo LG L DZ for Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Fira Mono for Powerline" />
   <colors>
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="333333" />
     <option name="CARET_ROW_COLOR" value="ededed" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="171717" />
     <option name="LINE_NUMBERS_COLOR" value="333333" />
     <option name="SELECTION_BACKGROUND" value="2f6f9f" />
   </colors>
