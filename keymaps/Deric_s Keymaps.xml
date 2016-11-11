@@ -17,10 +17,6 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
-  <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="meta alt o" />
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
