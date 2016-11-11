@@ -237,6 +237,22 @@
         <option name="FOREGROUND" value="2f6f9f" />
       </value>
     </option>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d62a00" />
+      </value>
+    </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="CSS.BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="333333" />
