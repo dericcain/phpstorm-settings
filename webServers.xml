@@ -17,9 +17,17 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="7d4f4c27-8d18-40b7-b45c-fbdbbb65e327" name="host4.diamhost.com" url="http://host4.diamhost.com">
+        <fileTransfer host="host4.diamhost.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAA4FJ9T6bX1Z9CtC8YAc8l/dM7l+7bC5gqeHGegfvI3m75JCMxR8ubVfKsi824kJmJU4GHOHOxbKPpi78gZJ7TBY/grzTu2QK/4Ey6Hw3qrnttdBebcCygMDMbx/DhTv/yxa9j3aaxP5pFK666x0BRmJgmL2mVOUr3VcBpjXYrjZmQDKeUdgW5zLqsNUBuAGazmG0Tv9C6By/ktez4KCnxK6RxBu+lkg4lBmLbHidk+DPzH+ZnZV3jrCXpyr91CVztnI7jK/joAtML2TyOD0iKdcME5dy/OAAUfvx+Z3W8ihPzPEKoUI1YjGdCYYg/7s5hIQ==</data>
+    <data>AAABUDEQwzPZKH3bjgTIeTeKG/yqOJTk/MDwE2+ZxpEtbuCUkHY6BYv8Ee5B/Eooiu6G3EKyTcLXwcEu3JFVpT7qIr7ZZEW4gVAT9Ivap3e9CT5vbIAUjZWCdT29kEnttNpvknHJ0p3a5JrXhBkaLHKBz2z4ZTPq0yYWgcyfLkvu4cGRhWXDQRL90fXqrIxlb/P20JG31eY5RQvFwKxKR1pChhXO40ssBOjzHEa1C76ER2FPaAPbk1Lf6H272dudfp48XVfz3jn/QludflYyu8tblm0vKd8+v6SKKjjsHTrxzWlmKl8jFtDUIkNKJadeI0uThnQoi4hSfiBhC0+mto4x3KDvBXsOcmlHVWz2OoVXf1BJpkPQaec+WMQeGIGYowa+h+uI9UYDG+/0Umqu5BXGFwohVXjnJ1szbAElbW2+WhQFwYCx1rMd5G9XJLfrAqOPLLM/OYt2NMD8e/GZHPubfCQ=</data>
   </component>
 </application>
