@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="con" value="console.log($START$);" description="Create console.log output" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="this" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
