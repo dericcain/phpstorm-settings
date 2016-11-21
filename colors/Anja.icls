@@ -10,7 +10,7 @@
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="333333" />
     <option name="CARET_ROW_COLOR" value="ededed" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="171717" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="333333" />
     <option name="LINE_NUMBERS_COLOR" value="333333" />
     <option name="SELECTION_BACKGROUND" value="2f6f9f" />
   </colors>
@@ -245,6 +245,11 @@
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4cff99" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
