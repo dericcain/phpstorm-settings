@@ -7,12 +7,16 @@
   <component name="LiveEditOptions" updatePolicy="AUTO" />
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="ffeb95" />
+      <option name="FOREGROUND" value="171717" />
+      <option name="BACKGROUND" value="14ff81" />
       <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_TYPE" value="1" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="ffeb95" />
+      <option name="FOREGROUND" value="171717" />
+      <option name="BACKGROUND" value="14ff81" />
       <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_TYPE" value="1" />
     </pattern>
     <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="\btodo-me\b.*">
       <option name="FOREGROUND" value="ffffff" />
