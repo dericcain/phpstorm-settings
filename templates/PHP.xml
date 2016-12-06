@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="test" value="/** @test */&#10;function $START$()&#10;{&#10;    $SECDOND$&#10;}" description="Testing boilerplate" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="/** @test */&#10;function $START$()&#10;{   &#10;    // Arrange&#10;    $SECDOND$&#10;    &#10;    // Act&#10;    &#10;    // Assert&#10;}" description="Testing boilerplate" toReformat="false" toShortenFQNames="true">
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SECDOND" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
