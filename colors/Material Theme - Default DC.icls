@@ -1267,7 +1267,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffeb95" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="2b87f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
