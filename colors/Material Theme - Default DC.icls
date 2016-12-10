@@ -1,16 +1,12 @@
 <scheme name="Material Theme - Default DC" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.9" />
+  <option name="LINE_SPACING" value="1.7" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -979,8 +975,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="485a60" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b39613" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1067,6 +1063,17 @@
         <option name="FOREGROUND" value="2c9ea7" />
       </value>
     </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="dada93" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="9a93e1" />
+      </value>
+    </option>
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ff457a" />
@@ -1079,7 +1086,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="f4645f" />
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
@@ -1265,7 +1272,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffeb95" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="2b87f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
