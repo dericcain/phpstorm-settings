@@ -11,4 +11,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="scope" value="public function scope$FIRST$($query)&#10;{&#10;    return $query-&gt;$SECOND$&#10;}" description="Creates scope query template" toReformat="false" toShortenFQNames="true">
+    <variable name="FIRST" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SECOND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
