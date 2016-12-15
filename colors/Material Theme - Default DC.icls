@@ -1,4 +1,8 @@
 <scheme name="Material Theme - Default DC" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="modified">2016-12-15T07:10:20</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -1116,6 +1120,31 @@
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="cd4296" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="177db6" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="dfa554" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="9317" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="e05958" />
       </value>
     </option>
     <option name="REGEXP.BRACES">
