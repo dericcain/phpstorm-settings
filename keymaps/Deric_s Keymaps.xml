@@ -21,6 +21,9 @@
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="ParameterInfo" />
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="Refresh" />
   <action id="Replace" />
   <action id="ReplaceInPath" />
