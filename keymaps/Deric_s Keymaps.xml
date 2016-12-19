@@ -28,6 +28,9 @@
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="Rerun" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
