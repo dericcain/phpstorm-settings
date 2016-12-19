@@ -46,6 +46,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
   <action id="UsageView.Rerun" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
