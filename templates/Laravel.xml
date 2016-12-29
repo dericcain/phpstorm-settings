@@ -1,5 +1,5 @@
 <templateSet group="Laravel">
-  <template name="blade" value="@extends('layouts.app')&#10;&#10;@section('section')&#10;&#10;@endsection&#10;&#10;@push('css')&#10;@endpush&#10;&#10;@push('js')&#10;@endpush" description="Start a Blade Template" toReformat="false" toShortenFQNames="true">
+  <template name="blade" value="@extends('layouts.app')&#10;&#10;@section('content')&#10;&#10;@endsection&#10;&#10;@push('css')&#10;@endpush&#10;&#10;@push('js')&#10;@endpush" description="Start a Blade Template" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
