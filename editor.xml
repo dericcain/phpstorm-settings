@@ -6,21 +6,17 @@
   </component>
   <component name="LiveEditOptions" updatePolicy="AUTO" />
   <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="ffffff" />
-      <option name="BACKGROUND" value="2b87f" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="ffffff" />
-      <option name="BACKGROUND" value="2b87f" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="\btodo-me\b.*">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" pattern="\btodo-me\b.*">
       <option name="FOREGROUND" value="ffffff" />
       <option name="BACKGROUND" value="1bc829" />
       <option name="FONT_TYPE" value="1" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bnote\b.*">
+      <option name="FOREGROUND" value="ffd446" />
+      <option name="FONT_TYPE" value="2" />
     </pattern>
     <filter name="My ToDo's">
       <pattern index="2" />
