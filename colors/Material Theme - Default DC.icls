@@ -1,6 +1,6 @@
 <scheme name="Material Theme - Default DC" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2017-01-22T08:39:49</property>
+    <property name="modified">2017-01-22T15:49:15</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
   <font>
@@ -20,7 +20,7 @@
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="222f35" />
+    <option name="CARET_ROW_COLOR" value="333f45" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="FILESTATUS_ADDED" value="80cbc4" />
