@@ -15,7 +15,7 @@
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <pattern useCustomColors="true" pattern="\bnote\b.*">
-      <option name="FOREGROUND" value="ffd446" />
+      <option name="FOREGROUND" value="cf8d2f" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
     <filter name="My ToDo's">
