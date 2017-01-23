@@ -1415,9 +1415,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="73bf" />
+        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="4cff99" />
-        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
