@@ -776,13 +776,13 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="2d92ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="d4538c" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
