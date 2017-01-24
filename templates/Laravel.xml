@@ -18,11 +18,4 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="routegroup" value="Route::group([&#10;    'prefix' =&gt; '$1$'&#10;], function() {&#10;    Route::get($2$)-&gt;name();&#10;});" description="Laravel Route Group" toReformat="false" toShortenFQNames="true">
-    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
 </templateSet>
