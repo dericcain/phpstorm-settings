@@ -1,0 +1,10 @@
+<templateSet group="Bootstrap">
+  <template name="textfield" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$NAME$&quot;&gt;$VALUE$&lt;/label&gt;&#10;    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;$NAME$&quot; name=&quot;$NAME$&quot; placeholder=&quot;$VALUE$&quot;&gt;&#10;&lt;/div&gt;" description="Bootstrap Form Input" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
