@@ -14,4 +14,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="post" value="axios.post($1$)&#10;    .then(response =&gt; {&#10;        $2$&#10;    })&#10;    .caatch(error =&gt; {&#10;        console.log(error);&#10;    })" description="Make Axios POST" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
