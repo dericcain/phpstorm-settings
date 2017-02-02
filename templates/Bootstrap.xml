@@ -7,8 +7,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="bootcheck" value="&lt;div class=&quot;checkbox&quot;&gt;&#10;    &lt;label&gt;&#10;        &lt;input type=&quot;checkbox&quot; name=&quot;$VALUE$&quot;&gt;&#10;    &lt;/label&gt;&#10;&lt;/div&gt;" description="Bootstrap Checkbox" toReformat="false" toShortenFQNames="true">
+  <template name="bootcheck" value="&lt;div class=&quot;form-group&quot;&gt; &#10;    &lt;div class=&quot;checkbox&quot;&gt;&#10;        &lt;label&gt;&#10;            &lt;input type=&quot;checkbox&quot; name=&quot;$VALUE$&quot;&gt;&#10;            $LABEL$&#10;        &lt;/label&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;" description="Bootstrap Checkbox" toReformat="false" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
