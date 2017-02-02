@@ -64,4 +64,23 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="string" value="$table-&gt;string('$1$');" description="Schema builder string" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="integer" value="$table-&gt;integer('$1$');" description="Schema builder integer" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="boolean" value="$table-&gt;boolean('$1$')-&gt;default($bool$);" description="Schema builder boolean" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="bool" expression="" defaultValue="false" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
