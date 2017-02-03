@@ -5,6 +5,10 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="LiveEditOptions" updatePolicy="AUTO" />
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
