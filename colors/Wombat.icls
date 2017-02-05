@@ -5,7 +5,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="2b2b2b" />
+    <option name="CARET_ROW_COLOR" value="262626" />
     <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -23,7 +23,7 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="242424" />
-    <option name="INDENT_GUIDE" value="898941" />
+    <option name="INDENT_GUIDE" value="49491a" />
     <option name="LINE_NUMBERS_COLOR" value="656565" />
     <option name="METHOD_SEPARATORS_COLOR" value="656565" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -32,7 +32,7 @@
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="898941" />
     <option name="SELECTION_BACKGROUND" value="393b37" />
-    <option name="SELECTION_FOREGROUND" value="f6f6f6" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="656565" />
     <option name="WHITESPACES" value="505050" />
   </colors>
@@ -525,7 +525,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f6f3e8" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="BACKGROUND" value="2f2f2f" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
