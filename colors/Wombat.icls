@@ -287,7 +287,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="f3f6ee" />
+        <option name="FOREGROUND" value="f6b42e" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -312,7 +312,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="95e454" />
+        <option name="FOREGROUND" value="95d086" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
