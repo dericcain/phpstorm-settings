@@ -1,5 +1,4 @@
 <scheme name="Wombat" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
@@ -113,6 +112,13 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="99968b" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="ffbb3a" />
+        <option name="EFFECT_COLOR" value="ffbb3a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
