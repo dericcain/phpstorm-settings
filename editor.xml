@@ -10,7 +10,11 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
+    <pattern useCustomColors="true" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="323f45" />
+      <option name="BACKGROUND" value="50c06a" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
     <pattern pattern="\bfixme\b.*" />
     <pattern useCustomColors="true" pattern="\btodo-me\b.*">
       <option name="FOREGROUND" value="ffffff" />
