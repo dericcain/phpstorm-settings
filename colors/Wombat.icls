@@ -1,4 +1,5 @@
 <scheme name="Wombat" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
@@ -95,13 +96,14 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="dddddc" />
+        <option name="FOREGROUND" value="b791ff" />
         <option name="BACKGROUND" value="242424" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6b68" />
+        <option name="BACKGROUND" value="242424" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
