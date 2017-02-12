@@ -95,7 +95,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="292928" />
+        <option name="FOREGROUND" value="dddddc" />
         <option name="BACKGROUND" value="242424" />
       </value>
     </option>
@@ -346,7 +346,7 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="45302b" />
+        <option name="BACKGROUND" value="812727" />
         <option name="ERROR_STRIPE_COLOR" value="8f5247" />
       </value>
     </option>
