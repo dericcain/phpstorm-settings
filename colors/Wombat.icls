@@ -96,7 +96,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b791ff" />
+        <option name="FOREGROUND" value="fcfcfc" />
         <option name="BACKGROUND" value="242424" />
       </value>
     </option>
@@ -444,6 +444,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="f6f3e8" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="d7d7d7" />
+        <option name="BACKGROUND" value="7a7a7a" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
