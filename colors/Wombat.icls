@@ -1,4 +1,5 @@
 <scheme name="Wombat" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
@@ -83,6 +84,11 @@
         <option name="FOREGROUND" value="6969" />
       </value>
     </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="797979" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="95e454" />
@@ -95,8 +101,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="292928" />
-        <option name="BACKGROUND" value="242424" />
+        <option name="FOREGROUND" value="e4e4e4" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
@@ -442,6 +447,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="f6f3e8" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="d8d8d8" />
+        <option name="BACKGROUND" value="7a7a7a" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
