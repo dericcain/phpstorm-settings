@@ -54,4 +54,7 @@
   </action>
   <action id="UsageView.Rerun" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
 </keymap>
