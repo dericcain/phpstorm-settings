@@ -13,6 +13,17 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="moment" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_momentjs_latest_moment.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_momentjs_latest_moment.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="owl.carousel" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_OwlCarousel2_2.2.0_owl.carousel.js" />
