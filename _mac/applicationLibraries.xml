@@ -1,0 +1,52 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery.zoom" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.7.18" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery-zoom_1.7.18_jquery.zoom.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="moment" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_momentjs_latest_moment.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_momentjs_latest_moment.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="owl.carousel" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_OwlCarousel2_2.2.0_owl.carousel.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="parsley" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_parsley.js_2.6.0_parsley.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="semantic" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_semantic-ui_2.2.4_semantic.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="toastr" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_toastr.js_2.1.3_toastr.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
