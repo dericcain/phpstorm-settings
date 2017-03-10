@@ -25,11 +25,6 @@
       <SOURCES />
     </library>
     <library name="moment" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_momentjs_latest_moment.min.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_momentjs_latest_moment.min.js" />
       </CLASSES>
