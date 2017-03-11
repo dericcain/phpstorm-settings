@@ -1,11 +1,6 @@
 <application>
   <component name="libraryTable">
     <library name="highcharts" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.highcharts.com_highcharts.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.highcharts.com_highcharts.js" />
       </CLASSES>
@@ -45,6 +40,17 @@
     <library name="semantic" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_semantic-ui_2.2.4_semantic.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="tether" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tether_1.4.0_js_tether.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tether_1.4.0_js_tether.js" />
       </CLASSES>
       <SOURCES />
     </library>
