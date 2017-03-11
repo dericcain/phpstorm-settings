@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="highcharts" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.highcharts.com_highcharts.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.highcharts.com_highcharts.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery.zoom" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
