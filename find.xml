@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Http/Controllers/Commerce/AjaxController.php - [napa-pro-image]'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Commerce/AjaxController.php - [napa-pro-image]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Commerce/AjaxController.php - [napa-pro-image]'" />
+    <option name="customScope" value="Directory '.../app - [napa-pro-image]'" />
+    <option name="defaultScopeName" value="Directory '.../app - [napa-pro-image]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../app - [napa-pro-image]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
