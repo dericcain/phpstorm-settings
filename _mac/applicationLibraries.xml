@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="bootstrap3-wysihtml5" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap3-wysiwyg_0.3.3_bootstrap3-wysihtml5.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap3-wysiwyg_0.3.3_bootstrap3-wysihtml5.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="highcharts" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.highcharts.com_highcharts.js" />
@@ -62,11 +73,6 @@
       <SOURCES />
     </library>
     <library name="summernote" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_summernote_0.8.2_summernote.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_summernote_0.8.2_summernote.js" />
       </CLASSES>
@@ -81,6 +87,17 @@
     <library name="toastr" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_toastr.js_2.1.3_toastr.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="trumbowyg" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Trumbowyg_2.5.1_trumbowyg.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Trumbowyg_2.5.1_trumbowyg.js" />
       </CLASSES>
       <SOURCES />
     </library>
