@@ -23,4 +23,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="bootselect" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$NAME$&quot;&gt;$LABEL$&lt;/label&gt;&#10;    &lt;select class=&quot;form-control&quot; id=&quot;$NAME$&quot; name=&quot;$NAME&quot;&gt;&#10;        &lt;option value=&quot;&quot;&gt;-- Please select --&lt;/option&gt;&#10;        &lt;option value=&quot;$VALUE$&quot;&gt;$END$&lt;/option&gt;&#10;    &lt;/select&gt;&#10;&lt;/div&gt;" description="Bootstrap select drop down" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="capitalize(underscoresToSpaces(NAME))" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
