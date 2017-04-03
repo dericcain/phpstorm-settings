@@ -1,5 +1,27 @@
 <application>
   <component name="libraryTable">
+    <library name="algoliasearchLite" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_algoliasearch_3_algoliasearchLite.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_algoliasearch_3_algoliasearchLite.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="autocomplete.jquery" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_autocomplete.js_0_autocomplete.jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_autocomplete.js_0_autocomplete.jquery.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="bootstrap3-wysihtml5" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap3-wysiwyg_0.3.3_bootstrap3-wysihtml5.js" />
