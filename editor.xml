@@ -3,7 +3,6 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="LiveEditOptions" updatePolicy="AUTO" />
   <component name="SqlEditorOptions">
