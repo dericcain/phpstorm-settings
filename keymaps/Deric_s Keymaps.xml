@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="EditorChooseLookupItem" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
@@ -54,6 +57,10 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift meta 0" />
