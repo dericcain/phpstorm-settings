@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d641d768-54fe-4499-8dde-9194b6cc63fa" name="diamhost" url="http://138.197.231.53">
+        <fileTransfer host="138.197.231.53" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
