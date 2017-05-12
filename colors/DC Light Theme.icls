@@ -1,16 +1,16 @@
 <scheme name="DC Light Theme" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-02-16T13:55:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-16T13:55:47</property>
+    <property name="modified">2017-05-11T20:13:59</property>
     <property name="originalScheme">Anja</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Meslo LG L DZ for Powerline" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <colors>
@@ -319,11 +319,14 @@
     <option name="CSS.IDENT">
       <value>
         <option name="FOREGROUND" value="aa88" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
       <value>
         <option name="FOREGROUND" value="d44950" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
@@ -404,6 +407,7 @@
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="333333" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -462,6 +466,7 @@
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="333333" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -487,6 +492,7 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="333333" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -1083,6 +1089,7 @@
     <option name="PHP_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="333333" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
