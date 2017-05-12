@@ -4,7 +4,7 @@
     <property name="created">2017-02-16T13:55:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-05-12T07:59:25</property>
+    <property name="modified">2017-05-12T12:25:14</property>
     <property name="originalScheme">Anja</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -41,6 +41,17 @@
       <value>
         <option name="FOREGROUND" value="333333" />
         <option name="BACKGROUND" value="ffcccc" />
+      </value>
+    </option>
+    <option name="BLADE_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="2f6f9f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BLADE_TEXT_BLOCK_BOUNDARY">
+      <value>
+        <option name="FOREGROUND" value="333333" />
       </value>
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
@@ -401,7 +412,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="d489db" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="d489db" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -545,7 +561,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="d489db" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -1001,7 +1017,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="a3c9fb" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ced7ff" />
       </value>
     </option>
     <option name="PHP_BAD_CHARACTER">
