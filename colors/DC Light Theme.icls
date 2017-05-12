@@ -4,7 +4,7 @@
     <property name="created">2017-02-16T13:55:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-05-12T12:25:14</property>
+    <property name="modified">2017-05-12T13:19:29</property>
     <property name="originalScheme">Anja</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -1017,7 +1017,6 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="ced7ff" />
       </value>
     </option>
