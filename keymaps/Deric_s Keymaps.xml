@@ -16,7 +16,12 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="Images.Thumbnails.EnterAction" />
+  <action id="Jdbc.RunSqlScript" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
@@ -28,6 +33,7 @@
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="Rerun" />
+  <action id="RunClass" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
