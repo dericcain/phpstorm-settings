@@ -4,20 +4,18 @@
     <property name="created">2017-02-16T13:55:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-05-12T13:19:29</property>
+    <property name="modified">2017-05-17T09:34:22</property>
     <property name="originalScheme">Anja</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Meslo LG L DZ for Powerline" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <colors>
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="333333" />
     <option name="CARET_ROW_COLOR" value="f8f8f8" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="333333" />
     <option name="LINE_NUMBERS_COLOR" value="333333" />
     <option name="SELECTION_BACKGROUND" value="2f6f9f" />
   </colors>
@@ -262,18 +260,23 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="292929" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="4cff99" />
+        <option name="FOREGROUND" value="6c70d0" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="292929" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="767676" />
       </value>
     </option>
     <option name="CSS.BAD_CHARACTER">
