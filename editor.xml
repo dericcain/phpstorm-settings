@@ -12,7 +12,7 @@
   <component name="TodoConfiguration">
     <pattern useCustomColors="true" pattern="\btodo\b.*">
       <option name="FOREGROUND" value="d0f11" />
-      <option name="BACKGROUND" value="c0b227" />
+      <option name="BACKGROUND" value="46ff6e" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
     <pattern pattern="\bfixme\b.*" />
