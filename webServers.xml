@@ -9,12 +9,12 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="99de8128-1f8f-43c4-9e0f-e3bee184b1b0" name="crazy-ninja" url="http://104.236.123.14">
-        <fileTransfer host="104.236.123.14" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+      <webServer id="99de8128-1f8f-43c4-9e0f-e3bee184b1b0" name="TTC" url="http://api.takethecity.com">
+        <fileTransfer host="api.takethecity.com" port="18765" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/takethec/www/api/current" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
+          <option name="port" value="18765" />
         </fileTransfer>
       </webServer>
       <webServer id="7d4f4c27-8d18-40b7-b45c-fbdbbb65e327" name="host4.diamhost.com" url="http://host4.diamhost.com">
