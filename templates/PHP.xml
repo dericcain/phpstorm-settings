@@ -54,11 +54,13 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="todo" value="// $LIST$ &#10;// @author Deric Cain on $DATE$" description="Expand Todo dropdown" toReformat="false" toShortenFQNames="true">
-    <variable name="LIST" expression="enum(TODO,NOTE,FIXME)" defaultValue="" alwaysStopAt="true" />
+  <template name="todo" value="// $LIST$: $MESSAGE$ &#10;// @author Deric Cain on $DATE$" description="Expand Todo dropdown" toReformat="false" toShortenFQNames="true">
+    <variable name="LIST" expression="enum(&quot;TODO&quot;,&quot;NOTE&quot;,&quot;FIXME&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
