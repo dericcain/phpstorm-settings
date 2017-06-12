@@ -4,7 +4,7 @@
     <property name="created">2017-02-16T13:55:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-05-17T09:34:22</property>
+    <property name="modified">2017-06-12T14:49:56</property>
     <property name="originalScheme">Anja</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -1586,7 +1586,7 @@
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="d489db" />
       </value>
     </option>
     <option name="YAML_SCALAR_STRING">
