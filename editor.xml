@@ -2,8 +2,10 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
-    <option name="IS_VIRTUAL_SPACE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_TRAILING_WHITESPACES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="LiveEditOptions" updatePolicy="AUTO" />
@@ -31,5 +33,8 @@
     <filter name="My ToDo's">
       <pattern index="2" />
     </filter>
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
