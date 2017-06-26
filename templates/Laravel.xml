@@ -99,4 +99,9 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="returnsuccess" value="return response(['success' =&gt; true]);" description="Return an AJAX success response" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
