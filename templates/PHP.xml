@@ -64,4 +64,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="helper" value="if (!function_exists('$NAME$')) {&#10;    function $NAME$($PARAM$)  &#10;    {&#10;        $END$&#10;    }&#10;}" description="Creates stub for a global helper" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
