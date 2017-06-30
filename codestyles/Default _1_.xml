@@ -1,4 +1,7 @@
 <code_scheme name="Default (1)">
+  <option name="HTML_ATTRIBUTE_WRAP" value="4" />
+  <option name="HTML_ALIGN_TEXT" value="true" />
+  <option name="HTML_ENFORCE_QUOTES" value="true" />
   <PHPCodeStyleSettings>
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
