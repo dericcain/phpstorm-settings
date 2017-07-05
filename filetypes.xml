@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="icls" type="DTD" />
+      <mapping pattern=".bablerc" type="JSON" />
+      <mapping pattern="_payment-type" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".htacess" type="PLAIN_TEXT" />
+      <mapping pattern="_yeti_variables" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccss" type="PLAIN_TEXT" />
+      <mapping pattern="_colors.scss" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping pattern="Movefile" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
