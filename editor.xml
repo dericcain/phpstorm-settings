@@ -4,6 +4,7 @@
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="3000" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_TRAILING_WHITESPACES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
