@@ -21,7 +21,11 @@
       <option name="BACKGROUND" value="46ff6e" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <pattern pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="0" />
+      <option name="BACKGROUND" value="fff57a" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
     <pattern useCustomColors="true" pattern="\btodo-me\b.*">
       <option name="FOREGROUND" value="ffffff" />
       <option name="BACKGROUND" value="1bc829" />
