@@ -29,6 +29,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="cleave" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_cleave.js_0.9.2_cleave.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_cleave.js_0.9.2_cleave.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="d3" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_d3_4.8.0_d3.js" />
