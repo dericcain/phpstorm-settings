@@ -31,4 +31,18 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="$on5" value="$('$ELEMENT$').on('$EVENT$', function () {&#10;    $END$&#10;});" description="jQuery on event handler." toReformat="false" toShortenFQNames="true">
+    <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EVENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="$on6" value="$('$ELEMENT$').on('$EVENT$', () =&gt; {&#10;    $END$&#10;});" description="jQuery on event handler." toReformat="false" toShortenFQNames="true">
+    <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EVENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
