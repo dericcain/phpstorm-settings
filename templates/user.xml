@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="ciset" value="&lt;?php set_value('$START$'); ?&gt;    " description="CI set value" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
