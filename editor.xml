@@ -22,30 +22,22 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern useCustomColors="true" pattern="\btodo\b.*">
+    <pattern useCustomColors="true" pattern="(\btodo\b.*)|(\/\*(\*(?!\/)|[^*])*\btodo\b(\*(?!\/)|[^*])*\*\/)">
       <option name="FOREGROUND" value="d0f11" />
       <option name="BACKGROUND" value="46ff6e" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
     <pattern useCustomColors="true" pattern="\bfixme\b.*">
       <option name="FOREGROUND" value="0" />
-      <option name="BACKGROUND" value="fff57a" />
-      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="\btodo-me\b.*">
-      <option name="FOREGROUND" value="ffffff" />
-      <option name="BACKGROUND" value="1bc829" />
-      <option name="FONT_TYPE" value="1" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="BACKGROUND" value="ff5312" />
+      <option name="FONT_TYPE" value="2" />
     </pattern>
     <pattern useCustomColors="true" pattern="\bnote\b.*">
       <option name="FOREGROUND" value="292929" />
       <option name="BACKGROUND" value="ffde3a" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <filter name="My ToDo's">
-      <pattern index="2" />
-    </filter>
+    <filter name="My ToDo's" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
