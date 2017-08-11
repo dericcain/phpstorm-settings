@@ -37,7 +37,9 @@
       <option name="BACKGROUND" value="ffde3a" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <filter name="My ToDo's" />
+    <filter name="My Fixex">
+      <pattern index="1" />
+    </filter>
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
