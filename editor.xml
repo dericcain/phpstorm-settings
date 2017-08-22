@@ -39,6 +39,14 @@
       <option name="FOREGROUND" value="0" />
       <option name="BACKGROUND" value="e05eff" />
     </pattern>
+    <pattern useCustomColors="true" pattern="\bremove\b.*">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="BACKGROUND" value="ff0044" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="46ff00" />
+      <option name="ERROR_STRIPE_COLOR" value="46ff00" />
+      <option name="EFFECT_TYPE" value="2" />
+    </pattern>
     <filter name="My Fixex">
       <pattern index="1" />
     </filter>
