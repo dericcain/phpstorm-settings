@@ -490,6 +490,12 @@
         <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="c189ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
