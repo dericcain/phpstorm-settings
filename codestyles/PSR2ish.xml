@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="PSR2ish">
   <option name="HTML_ATTRIBUTE_WRAP" value="4" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
@@ -10,6 +10,7 @@
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
+    <option name="SPACE_AFTER_UNARY_NOT" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="120" />
