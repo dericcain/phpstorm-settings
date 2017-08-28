@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="a25086d4-a565-4f77-90af-063cc06ccc2b" name="napa-production" url="https://new.napaacapp.com">
+        <fileTransfer host="138.197.59.196" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
