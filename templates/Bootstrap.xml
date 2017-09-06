@@ -31,4 +31,12 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="bootsection" value="&lt;section id=&quot;$FIRST$&quot;&gt;&#10;    &lt;div class=&quot;container&quot;&gt;&#10;        &lt;div class=&quot;row&quot;&gt;&#10;            &lt;div class=&quot;$SECOND$&quot;&gt;&#10;                $END$&#10;            &lt;/div&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&lt;/section&gt;" description="Layout for a bootstrap section" toReformat="false" toShortenFQNames="true">
+    <variable name="FIRST" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SECOND" expression="enum(&quot;col-sm-12&quot;,&quot;col-sm-10 col-sm-offset-1&quot;, &quot;col-sm-8 col-sm-offset-2&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
