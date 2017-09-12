@@ -241,7 +241,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="6272a4" />
+        <option name="FOREGROUND" value="7686b6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -488,12 +488,6 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff79c6" />
-      </value>
-    </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="c189ff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
