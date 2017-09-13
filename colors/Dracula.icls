@@ -298,7 +298,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="6272a4" />
+        <option name="FOREGROUND" value="8292c8" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -400,13 +400,11 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
@@ -414,7 +412,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
