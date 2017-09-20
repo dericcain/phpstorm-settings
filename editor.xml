@@ -35,10 +35,6 @@
       <option name="BACKGROUND" value="ffde3a" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <pattern useCustomColors="true" pattern="\bchange\b.*">
-      <option name="FOREGROUND" value="0" />
-      <option name="BACKGROUND" value="e05eff" />
-    </pattern>
     <filter name="My Fixex">
       <pattern index="1" />
     </filter>
