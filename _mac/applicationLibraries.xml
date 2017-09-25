@@ -40,10 +40,12 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_bs_dt-1.10.16_cr-1.4.1_datatables.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_bs_dt-1.10.16_cr-1.4.1_r-2.2.0_datatables.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_bs_dt-1.10.16_cr-1.4.1_datatables.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_bs_dt-1.10.16_cr-1.4.1_r-2.2.0_datatables.js" />
       </CLASSES>
       <SOURCES />
     </library>
