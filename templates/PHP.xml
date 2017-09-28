@@ -54,8 +54,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="todo" value="// $LIST$: $MESSAGE$" description="Expand Todo dropdown" toReformat="false" toShortenFQNames="true">
-    <variable name="LIST" expression="enum(&quot;TODO&quot;,&quot;NOTE&quot;,&quot;FIXME&quot;)" defaultValue="" alwaysStopAt="true" />
+  <template name="todo" value="// TODO: $MESSAGE$" description="Expand Todo dropdown" toReformat="false" toShortenFQNames="true">
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
@@ -67,6 +66,22 @@
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="note" value="// NOTE: $MESSAGE$" description="Create a code note" toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="me" value="// TODO(@deric): $MESSAGE$" description="Create a todo for myself" toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
