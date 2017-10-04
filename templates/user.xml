@@ -6,4 +6,17 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="helper" value="&quot;$START$&quot;: [&#10;    $END$&#10;]" description="Creates a helper for intro.js" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="step" value="{&#10;    &quot;element&quot;: &quot;$ELEMENT$&quot;,&#10;    &quot;intro&quot;: &quot;$INTRO$&quot;&#10;}" description="Creates a step for intro.js" toReformat="false" toShortenFQNames="true">
+    <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="INTRO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
 </templateSet>
