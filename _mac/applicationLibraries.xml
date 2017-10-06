@@ -50,11 +50,6 @@
       <SOURCES />
     </library>
     <library name="intro" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_intro.js_2.7.0_intro.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_intro.js_2.7.0_intro.js" />
       </CLASSES>
