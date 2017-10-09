@@ -4,6 +4,7 @@
     <option name="confirmExit" value="false" />
     <option name="inactiveTimeout" value="180" />
     <option name="autoSaveFiles" value="false" />
+    <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
