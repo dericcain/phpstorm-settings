@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="02850d92-898b-4ff8-9d8c-4c406d4e6027" name="rotr" url="https://revivalontheriver.com">
+        <fileTransfer host="revivalontheriver.com" port="18765" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/takethec/www/revivalontheriver.com" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="18765" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
