@@ -54,6 +54,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="hellosign-embedded.LATEST" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_s3.amazonaws.com_cdn.hellosign.com_public_js_hellosign-embedded.LATEST.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_s3.amazonaws.com_cdn.hellosign.com_public_js_hellosign-embedded.LATEST.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="highcharts" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.highcharts.com_highcharts.js" />
