@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.1.7" />
+    <option name="version" value="2.2.0.1" />
     <option name="accentColor" value="FFC107" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
