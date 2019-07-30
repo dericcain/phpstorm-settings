@@ -1,4 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+  </component>
   <component name="LiveEditOptions" updatePolicy="AUTO" />
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
