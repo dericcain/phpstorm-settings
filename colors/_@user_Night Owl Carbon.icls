@@ -4,7 +4,7 @@
     <property name="created">2019-07-31T07:03:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-07-31T07:04:54</property>
+    <property name="modified">2019-07-31T09:11:50</property>
     <property name="originalScheme">Night Owl Carbon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.9" />
@@ -60,7 +60,6 @@
     <option name="SELECTED_INDENT_GUIDE" value="34324a" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="1d3b53" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="444267" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212c32" />
