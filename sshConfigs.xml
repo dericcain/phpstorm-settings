@@ -1,0 +1,11 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="staging.teenchallenge.cc" id="97151ef1-aa52-40e3-83c4-fcfcca63d9f7" port="22" customName="Teen Challenge Staging" nameFormat="CUSTOM" />
+      <sshConfig host="api.takethecity.com" id="b2e57f98-6d26-411a-90bd-3b1ae88e05b1" keyPath="$USER_HOME$/.ssh/id_rsa" port="18765" customName="TTC" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="host4.diamhost.com" id="ba367b24-6115-469c-baef-5606d5e942f4" port="22" customName="host4.diamhost.com" nameFormat="CUSTOM" />
+      <sshConfig host="host.dericcain.com" id="9022d399-83ff-4c43-bf9c-3db96b66bf99" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="host.dericcain.com" nameFormat="CUSTOM" />
+      <sshConfig host="138.197.231.53" id="193f631e-8b35-46d0-ab60-a88b256f9d51" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="diamhost" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
