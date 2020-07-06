@@ -46,6 +46,11 @@
       <sshConfig authType="PASSWORD" host="host4.diamhost.com" id="3bf96745-f225-48cb-8137-986e4d6398be" port="22" customName="host4.diamhost.com" nameFormat="CUSTOM" />
       <sshConfig host="host.dericcain.com" id="d1b43269-eea6-4af1-a03e-2bbd8db56a10" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="host.dericcain.com" nameFormat="CUSTOM" />
       <sshConfig host="138.197.231.53" id="fe7d8346-f381-4aad-b82c-cb6eb1f76369" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="diamhost" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="staging.teenchallenge.cc" id="3e0034cb-e552-4430-812a-b3136c075afb" port="22" customName="Teen Challenge Staging" nameFormat="CUSTOM" />
+      <sshConfig host="api.takethecity.com" id="7e1134bf-a1d4-4fa2-b276-eb48fe64dc01" keyPath="$USER_HOME$/.ssh/id_rsa" port="18765" customName="TTC" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="host4.diamhost.com" id="0af7b81e-cbdc-4d89-a542-7fb118e98f69" port="22" customName="host4.diamhost.com" nameFormat="CUSTOM" />
+      <sshConfig host="host.dericcain.com" id="3941fa3f-7ac9-4ce6-bc0f-7a17e2f72c64" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="host.dericcain.com" nameFormat="CUSTOM" />
+      <sshConfig host="138.197.231.53" id="0b301408-cde5-4d28-8275-9a540a5ea403" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="diamhost" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
